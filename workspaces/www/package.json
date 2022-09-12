@@ -9,7 +9,6 @@
     "clean": "rm -rf lib/data/daily && rm -rf lib/data/latest.json",
     "test": "tap",
     "lint": "eslint \"**/*.js\"",
-    "template-oss-apply": "template-oss-apply --force",
     "lintfix": "npm run lint -- --fix",
     "preversion": "npm test",
     "postversion": "git push origin --follow-tags",

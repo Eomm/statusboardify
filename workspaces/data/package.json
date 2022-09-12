@@ -8,7 +8,6 @@
     "fetch:maintained": " node ./bin/fetch-maintained.js",
     "test": "tap",
     "lint": "eslint \"**/*.js\"",
-    "template-oss-apply": "template-oss-apply --force",
     "lintfix": "npm run lint -- --fix",
     "preversion": "npm test",
     "postversion": "git push origin --follow-tags",
