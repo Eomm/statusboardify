@@ -40,6 +40,10 @@ jobs:
     - run: npm -v
     - run: npm i --ignore-scripts --no-audit --no-fund --package-lock
     - run: npm run build -w www
+      env:
+        PROJECT_REPOSITORY: https://github.com/Eomm/statusboardify
+        SITE_NAME: 🚀 Eomm
+        SITE_URL: https://github.com/Eomm
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
       with:
