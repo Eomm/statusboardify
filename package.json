@@ -39,7 +39,6 @@
   "scripts": {
     "template-oss-apply": "template-oss-apply --force",
     "lint": "eslint \"**/*.js\"",
-    "postlint": "template-oss-check",
     "lintfix": "npm run lint -- --fix",
     "preversion": "npm test",
     "postversion": "git push origin --follow-tags",
