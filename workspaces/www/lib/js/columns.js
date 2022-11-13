@@ -50,7 +50,6 @@ const makeIssueColumns = ({ data: key, title, danger = 20, warning = 1 }) => ({
 })
 
 const getColumns = (rows) => {
-  const requiredTemplate = $$.templateVersion(rows)
   const requiredNode = $$.nodeVersion(rows)
 
   const rowWithIssues = rows.find((project) => project.issues && project.prs) || {}
@@ -143,45 +142,6 @@ const getColumns = (rows) => {
         }
       },
     },
-    'prs.release.version': {
-      title: 'Release',
-      type: 'num',
-      defaultContent: 0,
-      render: (data, row) => {
-        if ($$.isPrivate(row)) {
-          return {
-            sort: -1,
-            display: EL.noData({ type: 'info' }),
-          }
-        }
-        const opts = data ? {
-          text: data,
-          href: row.prs.release.url,
-          type: 'warning',
-        } : {
-          text: 'None',
-          type: 'success',
-        }
-        return {
-          sort: data ? util.semver.score(data) : 0,
-          filter: opts.text,
-          display: EL.cell(opts),
-        }
-      },
-    },
-    templateVersion: {
-      title: 'Template',
-      type: 'num',
-      render: (data) => {
-        const type = !data ? 'danger' : data !== requiredTemplate ? 'warning' : 'success'
-        const text = data || 'None'
-        return {
-          sort: data ? util.semver.score(data) : 0,
-          filter: text,
-          display: EL.cell({ text, type }),
-        }
-      },
-    },
     coverage: {
       title: 'Coverage',
       type: 'num',
@@ -250,7 +210,9 @@ const getColumns = (rows) => {
             display: EL.noData({ type: 'info' }),
           }
         }
-        const opts = data ? { type: 'danger', text: 'TODO' } : { type: 'success', text: 'No' }
+
+        const opts = data ? { type: 'secondary', text: '🔐' } : { type: 'success', text: '🔓' }
+
         return {
           sort: data ? 0 : 1,
           filter: opts.text,
