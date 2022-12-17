@@ -15,6 +15,12 @@
     "owner": "Eomm"
   },
   {
+    "id": "Eomm_fastify-plugin-template",
+    "name": "fastify-plugin-template",
+    "owner": "Eomm",
+    "pkg": "change-me"
+  },
+  {
     "id": "Eomm_choose-it",
     "name": "choose-it",
     "owner": "Eomm",
@@ -133,6 +139,12 @@
     "name": "fastify-sqlite",
     "owner": "Eomm",
     "pkg": "fastify-sqlite"
+  },
+  {
+    "id": "Eomm_fastify-user-agent",
+    "name": "fastify-user-agent",
+    "owner": "Eomm",
+    "pkg": "fastify-user-agent"
   },
   {
     "id": "Eomm_fastify-websocket-chat",
@@ -293,11 +305,6 @@
   {
     "id": "Eomm_storie",
     "name": "storie",
-    "owner": "Eomm"
-  },
-  {
-    "id": "Eomm_template-nodejs",
-    "name": "template-nodejs",
     "owner": "Eomm"
   },
   {
