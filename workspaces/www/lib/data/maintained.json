@@ -281,6 +281,11 @@
     "pkg": "pm2-env-module"
   },
   {
+    "id": "Eomm_pokedex",
+    "name": "pokedex",
+    "owner": "Eomm"
+  },
+  {
     "id": "Eomm_rust-try",
     "name": "rust-try",
     "owner": "Eomm"
