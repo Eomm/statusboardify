@@ -291,6 +291,11 @@
     "owner": "Eomm"
   },
   {
+    "id": "Eomm_receiptify",
+    "name": "receiptify",
+    "owner": "Eomm"
+  },
+  {
     "id": "Eomm_rust-try",
     "name": "rust-try",
     "owner": "Eomm"
