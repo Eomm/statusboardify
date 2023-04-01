@@ -275,6 +275,12 @@
     "owner": "Eomm"
   },
   {
+    "id": "Eomm_org-labels",
+    "name": "org-labels",
+    "owner": "Eomm",
+    "pkg": "org-labels"
+  },
+  {
     "id": "Eomm_package-badge",
     "name": "package-badge",
     "owner": "Eomm"
