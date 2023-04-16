@@ -33,6 +33,11 @@
     "pkg": "cli-ator"
   },
   {
+    "id": "Eomm_concorso-commissario",
+    "name": "concorso-commissario",
+    "owner": "Eomm"
+  },
+  {
     "id": "Eomm_digi-tags",
     "name": "digi-tags",
     "owner": "Eomm"
