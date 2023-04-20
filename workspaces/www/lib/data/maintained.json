@@ -122,6 +122,11 @@
     "pkg": "fastify-json5"
   },
   {
+    "id": "Eomm_fastify-log-controller",
+    "name": "fastify-log-controller",
+    "owner": "Eomm"
+  },
+  {
     "id": "Eomm_fastify-overview",
     "name": "fastify-overview",
     "owner": "Eomm",
