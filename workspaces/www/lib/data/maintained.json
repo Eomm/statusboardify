@@ -124,7 +124,8 @@
   {
     "id": "Eomm_fastify-log-controller",
     "name": "fastify-log-controller",
-    "owner": "Eomm"
+    "owner": "Eomm",
+    "pkg": "fastify-log-controller"
   },
   {
     "id": "Eomm_fastify-overview",
