@@ -5,6 +5,11 @@
     "owner": "Eomm"
   },
   {
+    "id": "Eomm_action-journalist",
+    "name": "action-journalist",
+    "owner": "Eomm"
+  },
+  {
     "id": "Eomm_alexa-github-stars",
     "name": "alexa-github-stars",
     "owner": "Eomm"
@@ -101,6 +106,11 @@
     "pkg": "fastify-explorer"
   },
   {
+    "id": "Eomm_fastify-fast-startup",
+    "name": "fastify-fast-startup",
+    "owner": "Eomm"
+  },
+  {
     "id": "Eomm_fastify-in-practice",
     "name": "fastify-in-practice",
     "owner": "Eomm"
@@ -161,6 +171,11 @@
   {
     "id": "Eomm_frontend-masters",
     "name": "frontend-masters",
+    "owner": "Eomm"
+  },
+  {
+    "id": "Eomm_google-photo-album",
+    "name": "google-photo-album",
     "owner": "Eomm"
   },
   {
@@ -292,6 +307,11 @@
     "name": "pm2-env-module",
     "owner": "Eomm",
     "pkg": "pm2-env-module"
+  },
+  {
+    "id": "Eomm_pokedex",
+    "name": "pokedex",
+    "owner": "Eomm"
   },
   {
     "id": "Eomm_receiptify",
