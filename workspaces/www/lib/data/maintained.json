@@ -15,6 +15,11 @@
     "owner": "Eomm"
   },
   {
+    "id": "Eomm_bot-assistant",
+    "name": "bot-assistant",
+    "owner": "Eomm"
+  },
+  {
     "id": "Eomm_fastify-plugin-template",
     "name": "fastify-plugin-template",
     "owner": "Eomm",
