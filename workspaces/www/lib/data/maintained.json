@@ -302,12 +302,6 @@
     "owner": "Eomm"
   },
   {
-    "id": "Eomm_plugin-parsedoc",
-    "name": "plugin-parsedoc",
-    "owner": "Eomm",
-    "pkg": "@lyrasearch/plugin-parsedoc"
-  },
-  {
     "id": "Eomm_pm2-env-module",
     "name": "pm2-env-module",
     "owner": "Eomm",
