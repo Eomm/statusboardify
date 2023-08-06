@@ -15,11 +15,6 @@
     "owner": "Eomm"
   },
   {
-    "id": "Eomm_bot-assistant",
-    "name": "bot-assistant",
-    "owner": "Eomm"
-  },
-  {
     "id": "Eomm_fastify-plugin-template",
     "name": "fastify-plugin-template",
     "owner": "Eomm",
@@ -342,6 +337,11 @@
   {
     "id": "Eomm_storie",
     "name": "storie",
+    "owner": "Eomm"
+  },
+  {
+    "id": "Eomm_telegram-bot-give-away",
+    "name": "telegram-bot-give-away",
     "owner": "Eomm"
   },
   {
