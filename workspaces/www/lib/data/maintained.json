@@ -95,6 +95,11 @@
     "owner": "Eomm"
   },
   {
+    "id": "Eomm_fastify-discord-bot-demo",
+    "name": "fastify-discord-bot-demo",
+    "owner": "Eomm"
+  },
+  {
     "id": "Eomm_fastify-explorer",
     "name": "fastify-explorer",
     "owner": "Eomm",
@@ -127,6 +132,12 @@
     "name": "fastify-overview",
     "owner": "Eomm",
     "pkg": "fastify-overview"
+  },
+  {
+    "id": "Eomm_fastify-raw-body",
+    "name": "fastify-raw-body",
+    "owner": "Eomm",
+    "pkg": "fastify-raw-body"
   },
   {
     "id": "Eomm_fastify-schema-constraint",
@@ -311,6 +322,12 @@
     "name": "speed-beat",
     "owner": "Eomm",
     "pkg": "speed-beat"
+  },
+  {
+    "id": "Eomm_sqs-json-body-parser",
+    "name": "sqs-json-body-parser",
+    "owner": "Eomm",
+    "pkg": "sqs-json-body-parser"
   },
   {
     "id": "Eomm_statusboard",
