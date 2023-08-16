@@ -169,11 +169,6 @@
     "pkg": "form-auto-content"
   },
   {
-    "id": "Eomm_frontend-masters",
-    "name": "frontend-masters",
-    "owner": "Eomm"
-  },
-  {
     "id": "Eomm_google-photo-album",
     "name": "google-photo-album",
     "owner": "Eomm"
@@ -352,6 +347,11 @@
   {
     "id": "Eomm_tortora",
     "name": "tortora",
+    "owner": "Eomm"
+  },
+  {
+    "id": "Eomm_training-days",
+    "name": "training-days",
     "owner": "Eomm"
   },
   {
