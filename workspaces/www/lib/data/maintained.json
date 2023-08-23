@@ -206,12 +206,6 @@
     "owner": "Eomm"
   },
   {
-    "id": "Eomm_joi-compiler",
-    "name": "joi-compiler",
-    "owner": "Eomm",
-    "pkg": "joi-compiler"
-  },
-  {
     "id": "Eomm_json-schema-resolver",
     "name": "json-schema-resolver",
     "owner": "Eomm",
@@ -352,11 +346,6 @@
   {
     "id": "Eomm_tortora",
     "name": "tortora",
-    "owner": "Eomm"
-  },
-  {
-    "id": "Eomm_training-days",
-    "name": "training-days",
     "owner": "Eomm"
   },
   {
