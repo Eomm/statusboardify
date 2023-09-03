@@ -15,6 +15,12 @@
     "owner": "Eomm"
   },
   {
+    "id": "Eomm_blog-posts",
+    "name": "blog-posts",
+    "owner": "Eomm",
+    "pkg": "blog-posts"
+  },
+  {
     "id": "Eomm_fastify-plugin-template",
     "name": "fastify-plugin-template",
     "owner": "Eomm",
@@ -97,11 +103,6 @@
   {
     "id": "Eomm_fastify-custom-error",
     "name": "fastify-custom-error",
-    "owner": "Eomm"
-  },
-  {
-    "id": "Eomm_fastify-discord-bot-demo",
-    "name": "fastify-discord-bot-demo",
     "owner": "Eomm"
   },
   {
