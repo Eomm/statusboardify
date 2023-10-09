@@ -164,6 +164,12 @@
     "pkg": "fastify-sqlite"
   },
   {
+    "id": "Eomm_fastify-telegram",
+    "name": "fastify-telegram",
+    "owner": "Eomm",
+    "pkg": "@eomm/fastify-telegram"
+  },
+  {
     "id": "Eomm_fastify-user-agent",
     "name": "fastify-user-agent",
     "owner": "Eomm",
@@ -354,6 +360,11 @@
   {
     "id": "Eomm_telegram-bot-give-away",
     "name": "telegram-bot-give-away",
+    "owner": "Eomm"
+  },
+  {
+    "id": "Eomm_telegram-bot-questions",
+    "name": "telegram-bot-questions",
     "owner": "Eomm"
   },
   {
