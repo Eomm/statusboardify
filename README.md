@@ -1,3 +1,5 @@
+# ⚠️ Archived due https://github.com/Eomm/statusboard
+
 ## 📊 statusboard
 
 [**npm.github.io/statusboard**](https://npm.github.io/statusboard/)
